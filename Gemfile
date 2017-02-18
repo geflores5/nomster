@@ -57,3 +57,6 @@ gem 'bootstrap', '~> 4.0.0.alpha6'
 
 # Install Pagination
 gem 'will_paginate', '>= 3.1'
+
+# Install SimpleForm
+gem 'simple_form'
