@@ -60,3 +60,6 @@ gem 'will_paginate', '>= 3.1'
 
 # Install SimpleForm
 gem 'simple_form'
+
+# Install Font Awesome
+gem 'font-awesome-rails'
