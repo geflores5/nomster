@@ -63,3 +63,6 @@ gem 'simple_form'
 
 # Install Font Awesome
 gem 'font-awesome-rails'
+
+# Install User Authenticaion
+gem 'devise'
