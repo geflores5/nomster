@@ -6,4 +6,6 @@ class Place < ApplicationRecord
       paginate(page: page, per_page: 5).order('id DESC')
     end
   end
+
+  belongs_to :user
 end
