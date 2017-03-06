@@ -66,3 +66,7 @@ gem 'font-awesome-rails'
 
 # Install User Authenticaion
 gem 'devise'
+
+gem "geocoder"
+
+gem "figaro"
