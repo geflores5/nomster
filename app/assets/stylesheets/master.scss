@@ -101,3 +101,15 @@ blockquote:before {
 blockquote p {
   display: inline;
 }
+
+.carousel-caption {
+  font-family: 'Helvetica Neue', Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: 100;
+  color: #9f082c;
+  text-shadow: rbga(0, 0, 0, 0.95) 2px 2px;
+  background-color: rbga(0, 0, 0, 0.5);
+  width: 100%;
+  position: absolute;
+  left: 0;
+}
