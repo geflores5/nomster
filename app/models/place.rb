@@ -8,7 +8,7 @@ class Place < ApplicationRecord
   end
 
   belongs_to :user
-  has_many :comments
+  has_many :comments, dependent: :destroy
   has_many :photos
 
   geocoded_by :address
